@@ -14,7 +14,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: DOAN MINH HIEP
+name: Doan Minh Hiep
 role: DevOps / Infrastructure Fresher
 focus: Automation • CI/CD • Cloud Infrastructure
 currently_learning: Kubernetes & Terraform at scale
