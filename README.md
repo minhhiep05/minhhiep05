@@ -14,11 +14,11 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Doan Minh Hiep
-role: DevOps / Infrastructure Fresher
-focus: Automation • CI/CD • Cloud Infrastructure
-currently_learning: Kubernetes & Terraform at scale
-fun_fact: "Learn how to deploy code without disrupting production 🙏"
+Name: Doan Minh Hiep
+Role: DevOps / Infrastructure Fresher.
+Focus: Automation • CI/CD • Cloud Infrastructure.
+Currently_learning: Kubernetes & Terraform at scale.
+Fun_fact: "Learn how to deploy code without disrupting production 🙏"
 ```
 
 <br/>
