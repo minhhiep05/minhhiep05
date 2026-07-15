@@ -14,11 +14,11 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: minhhiep05
-role: DevOps / Infrastructure Engineer
+name: DOAN MINH HIEP
+role: DevOps / Infrastructure Fresher
 focus: Automation • CI/CD • Cloud Infrastructure
 currently_learning: Kubernetes & Terraform at scale
-fun_fact: "Object-oriented design is the roman numerals of computing." – Rob Pike
+fun_fact: "Đang học cách deploy code mà không làm sập production 🙏"
 ```
 
 <br/>
