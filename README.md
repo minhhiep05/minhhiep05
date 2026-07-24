@@ -24,15 +24,19 @@
 
 </div>
 
+<br/>
+
 ## 🧑‍💻 About Me
 
-<p style="font-size: 16px; font-family: monospace; line-height: 1.6;">
-<b>Name:</b> Doan Minh Hiep<br>
-<b>Role:</b> DevOps / Infrastructure Fresher.<br>
-<b>Focus:</b> Automation • CI/CD • Cloud Infrastructure.<br>
-<b>Currently_learning:</b> Kubernetes & Terraform at scale.<br>
-<b>Fun_fact:</b> "Learn how to deploy code without disrupting production 🙏"
-</p>
+```yaml
+Name: Doan Minh Hiep
+Role: DevOps / Infrastructure Fresher.
+Focus: Automation • CI/CD • Cloud Infrastructure.
+Currently_learning: Kubernetes & Terraform at scale.
+Fun_fact: "Learn how to deploy code without disrupting production 🙏"
+```
+
+<br/>
 
 ## 🛠️ Tech Stack
 
