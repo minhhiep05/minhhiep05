@@ -26,10 +26,13 @@
 
 ## 🧑‍💻 About Me
 
-<p align="left">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&pause=999999999&color=3FB950&background=161B22&center=false&vCenter=true&width=540&height=130&lines=Name%3A+Doan+Minh+Hiep;Role%3A+DevOps+%2F+Infrastructure+Fresher;Focus%3A+Automation+%E2%80%A2+CI%2FCD+%E2%80%A2+Cloud;Learning%3A+Kubernetes+%26+Terraform;Fun_fact%3A+%22Deploy+without+breaking+prod+%F0%9F%99%8F%22](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&pause=999999999&color=3FB950&background=161B22&center=false&vCenter=true&width=540&height=130&lines=Name%3A+Doan+Minh+Hiep;Role%3A+DevOps+%2F+Infrastructure+Fresher;Focus%3A+Automation+%E2%80%A2+CI%2FCD+%E2%80%A2+Cloud;Learning%3A+Kubernetes+%26+Terraform;Fun_fact%3A+%22Deploy+without+breaking+prod+%F0%9F%99%8F%22)" alt="About Me" />
+<p style="font-size: 16px; font-family: monospace; line-height: 1.6;">
+<b>Name:</b> Doan Minh Hiep<br>
+<b>Role:</b> DevOps / Infrastructure Fresher.<br>
+<b>Focus:</b> Automation • CI/CD • Cloud Infrastructure.<br>
+<b>Currently_learning:</b> Kubernetes & Terraform at scale.<br>
+<b>Fun_fact:</b> "Learn how to deploy code without disrupting production 🙏"
 </p>
-
 
 ## 🛠️ Tech Stack
 
