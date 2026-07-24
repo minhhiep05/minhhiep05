@@ -26,14 +26,14 @@
 
 ## 🧑‍💻 About Me
 
-| | |
-|:---|:---|
-| **Name** | `Doan Minh Hiep` |
-| **Role** | `DevOps / Infrastructure Fresher` |
-| **Focus** | `Automation • CI/CD • Cloud Infrastructure` |
-| **Learning** | `Kubernetes & Terraform at scale` |
-| **Fun fact** | `"Learn how to deploy code without disrupting production 🙏"` |
+```yaml
+Name:       **Doan Minh Hiep**
+Role:       **DevOps / Infrastructure Fresher**
+Focus:      **Automation • CI/CD • Cloud**
+Learning:   **Kubernetes & Terraform**
+Fun_fact:   **"Deploy without breaking prod 🙏"**
 
+```
 ## 🛠️ Tech Stack
 
 <div align="center">
