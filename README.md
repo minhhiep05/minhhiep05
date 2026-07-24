@@ -1,8 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There%20%F0%9F%91%8B%20I'm%20Hiep&fontSize=42&fontColor=fff&animation=fadeIn&desc=DevOps%20%7C%20Cloud%20%7C%20Automation&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:4f46e5,100:06b6d4&height=220&section=header&text=Hi%20There%20%F0%9F%91%8B%20I'm%20Hiep&fontSize=44&fontColor=ffffff&animation=scaleIn&desc=DevOps%20%E2%80%A2%20Cloud%20Infrastructure%20%E2%80%A2%20Automation&descAlignY=62&descSize=18" width="100%"/>
 
-<img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="email logo" />
+<br/>
+
+<h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=06b6d4&center=true&vCenter=true&width=500&lines=DevOps%20%7C%20Cloud%20%7C%20Automation;CI/CD%20Pipeline%20Automation;Infrastructure%20as%20Code;Kubernetes%20%26%20Cloud%20Native" alt="Typing SVG" />
+  </a>
+</h3>
+
+<p align="center">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail Badge" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn Badge" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/minhhiep05?label=Followers&style=for-the-badge&color=24292e&logo=github" height="28" alt="GitHub Followers" />
+</p>
 
 </div>
 
