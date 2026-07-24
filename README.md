@@ -30,13 +30,13 @@
 <tr>
 <td>
 
-```yaml
-Name: Doan Minh Hiep
-Role: DevOps / Infrastructure Fresher.
-Focus: Automation • CI/CD • Cloud Infrastructure.
-Currently_learning: Kubernetes & Terraform at scale.
-Fun_fact: "Learn how to deploy code without disrupting production 🙏"
-```
+<pre style="font-family: 'Fira Code', monospace; font-size: 16px; line-height: 1.5; color: #3fb950; background-color: #0d1117; padding: 16px; border-radius: 6px;">
+<b>Name:</b> Doan Minh Hiep
+<b>Role:</b> DevOps / Infrastructure Fresher.
+<b>Focus:</b> Automation • CI/CD • Cloud Infrastructure.
+<b>Currently_learning:</b> Kubernetes & Terraform at scale.
+<b>Fun_fact:</b> "Learn how to deploy code without disrupting production 🙏"
+</pre>
 
 </td>
 </tr>
