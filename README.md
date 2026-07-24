@@ -1,11 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There%20%F0%9F%91%8B%20I'm%20Hiep&fontSize=42&fontColor=fff&animation=fadeIn&desc=DevOps%20%7C%20Cloud%20%7C%20Automation&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,1e293b,3b82f6,6366f1&height=200&section=header&text=Hi%20There%20%F0%9F%91%8B%20I'm%20Hiep&fontSize=42&fontColor=fff&animation=twinkling" width="100%"/>
 
-<img src="https://img.shields.io/static/v1?message=Mastodon&logo=mastodon&label=&color=6364FF&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="mastodon logo" />
-<img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="email logo" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3b82f6&center=true&vCenter=true&width=450&height=50&lines=DevOps+%7C+Infrastructure+Engineer;Cloud+Native+Explorer;Automation+%26+CI%2FCD+Enthusiast" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=minhhiep05&label=Profile%20Views&color=6364FF&style=flat" alt="profile views"/>
+<br/>
+
+<a href="mailto:doanhiep169@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://mastodon.social/@minhhiep05" target="_blank">
+  <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=minhhiep05&label=Profile%20Views&color=3b82f6&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -13,107 +20,104 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
-Name: Doan Minh Hiep
-Role: DevOps / Infrastructure Fresher.
-Focus: Automation • CI/CD • Cloud Infrastructure.
-Currently_learning: Kubernetes & Terraform at scale.
-Fun_fact: "Learn how to deploy code without disrupting production 🙏"
-```
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <p>I am a passionate <b>DevOps & Infrastructure Engineer</b> dedicated to building automated, resilient, and highly scalable cloud infrastructure. My focus is on eliminating deployment friction and optimizing development workflows.</p>
+      <ul>
+        <li>🚀 <b>Focus:</b> Automation • CI/CD • Cloud Infrastructure</li>
+        <li>📚 <b>Currently learning:</b> Kubernetes & Terraform at scale</li>
+        <li>💡 <b>Fun fact:</b> <i>"Learn how to deploy code without disrupting production 🙏"</i></li>
+      </ul>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I1Zm1wdzE3am4xbmFzNWphMWVjcnY4dHphbTBsZm9pZzZ0anB6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9gOddBhB9FM/giphy.gif" width="180" alt="DevOps Loop"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,bash,nodejs,docker,kubernetes&theme=dark" height="60" alt="core skills" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,nginx,git,mysql&theme=dark" height="60" alt="infra skills" />
-</div>
+<table>
+  <tr>
+    <td width="30%"><b>💻 Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=c,cpp,powershell,bash,nodejs&theme=dark" alt="Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>☁️ Cloud & Infrastructure</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,nginx,docker,kubernetes&theme=dark" alt="Cloud & Infrastructure" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🚀 CI/CD & Monitoring</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=jenkins,gitlab,github,grafana,prometheus&theme=dark" alt="CI/CD & Monitoring" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>💾 Databases & Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,git&theme=dark" alt="Databases & Tools" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-**Languages**
+## 🎮 Activity & Interactive Contributions
 
-<p align="left">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhhiep05/minhhiep05/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minhhiep05/minhhiep05/output/github-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/minhhiep05/minhhiep05/output/github-snake-dark.svg" width="90%" />
+  </picture>
 </p>
 
-**Cloud & Infrastructure**
-
-<p align="left">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" /> <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /> 
-</p>
-
-**CI/CD & Monitoring**
-
-<p align="left">
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-</p>
-
-**Database**
-
-<p align="left">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhhiep05/minhhiep05/pacman-output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minhhiep05/minhhiep05/pacman-output/pacman-contribution-graph.svg" />
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/minhhiep05/minhhiep05/pacman-output/pacman-contribution-graph.svg" width="90%" />
+  </picture>
 </p>
 
 <br/>
 
-## 🐍 Contribution Snake
+## 📊 GitHub Stats Dashboard
 
-<div align="center">
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=minhhiep05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://streak-stats.demolab.com?user=minhhiep05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhhiep05/minhhiep05/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minhhiep05/minhhiep05/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/minhhiep05/minhhiep05/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<br/>
-
-## 👾 Pac-Man Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhhiep05/minhhiep05/pacman-output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minhhiep05/minhhiep05/pacman-output/pacman-contribution-graph.svg" />
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/minhhiep05/minhhiep05/pacman-output/pacman-contribution-graph.svg" />
-</picture>
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=minhhiep05&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-<img height="165" src="https://streak-stats.demolab.com?user=minhhiep05&theme=dracula&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhhiep05&layout=pie&theme=dracula&hide_border=true" />
-
-</div>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhhiep05&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Top Languages" />
+</p>
 
 <br/>
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/minhhiep05/minhhiep05/trophy-output/trophy.svg" alt="trophy graph" />
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=minhhiep05&theme=tokyonight&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
 
 <br/>
 
 ## ✍️ Random Dev Quote
 
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,1e293b,3b82f6,6366f1&height=100&section=footer" width="100%"/>
