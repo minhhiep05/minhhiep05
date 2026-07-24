@@ -59,19 +59,6 @@ Fun_fact: "Learn how to deploy code without disrupting production 🙏"
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhhiep05/minhhiep05/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minhhiep05/minhhiep05/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/minhhiep05/minhhiep05/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<br/>
 
 ## 👾 Pac-Man Contribution Graph
 
