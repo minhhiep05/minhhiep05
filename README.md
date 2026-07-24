@@ -41,7 +41,7 @@ Fun_fact: "Learn how to deploy code without disrupting production 🙏"
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,bash,nodejs,docker,kubernetes&theme=dark" height="60" alt="core skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,bash,py,docker,kubernetes&theme=dark" height="60" alt="core skills" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,nginx,git,mysql&theme=dark" height="60" alt="infra skills" />
 </div>
@@ -51,7 +51,7 @@ Fun_fact: "Learn how to deploy code without disrupting production 🙏"
 **Languages**
 
 <p align="left">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 **Cloud & Infrastructure**
@@ -88,6 +88,4 @@ Fun_fact: "Learn how to deploy code without disrupting production 🙏"
 </div>
 
 <br/>
-
-
 
