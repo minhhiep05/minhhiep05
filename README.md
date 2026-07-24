@@ -4,12 +4,6 @@
 
 <br/>
 
-<h3>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=06b6d4&center=true&vCenter=true&width=500&lines=DevOps%20%7C%20Cloud%20%7C%20Automation;CI/CD%20Pipeline%20Automation;Infrastructure%20as%20Code;Kubernetes%20%26%20Cloud%20Native" alt="Typing SVG" />
-  </a>
-</h3>
-
 <p align="center">
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail Badge" />
