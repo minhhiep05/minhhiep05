@@ -75,7 +75,7 @@ Fun_fact: "Learn how to deploy code without disrupting production 🙏"
 <br/>
 
 
-## 👾 Pac-Man Contribution Graph
+## 👾 Pac-Man
 
 <div align="center">
 
@@ -90,11 +90,5 @@ Fun_fact: "Learn how to deploy code without disrupting production 🙏"
 <br/>
 
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/minhhiep05/minhhiep05/trophy-output/trophy.svg" alt="trophy graph" />
-</div>
-
-<br/>
 
