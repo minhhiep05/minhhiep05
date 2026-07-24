@@ -74,18 +74,6 @@ Fun_fact: "Learn how to deploy code without disrupting production 🙏"
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=minhhiep05&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-<img height="165" src="https://streak-stats.demolab.com?user=minhhiep05&theme=dracula&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhhiep05&layout=pie&theme=dracula&hide_border=true" />
-
-</div>
-
-<br/>
 
 ## 🏆 GitHub Trophies
 
