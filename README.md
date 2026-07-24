@@ -2,10 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There%20%F0%9F%91%8B%20I'm%20Hiep&fontSize=42&fontColor=fff&animation=fadeIn&desc=DevOps%20%7C%20Cloud%20%7C%20Automation&descAlignY=62&descSize=18" width="100%"/>
 
-<img src="https://img.shields.io/static/v1?message=Mastodon&logo=mastodon&label=&color=6364FF&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="mastodon logo" />
 <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="email logo" />
-
-<img src="https://komarev.com/ghpvc/?username=minhhiep05&label=Profile%20Views&color=6364FF&style=flat" alt="profile views"/>
 
 </div>
 
