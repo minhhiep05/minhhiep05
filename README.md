@@ -24,9 +24,11 @@
 
 </div>
 
-<br/>
-
 ## 🧑‍💻 About Me
+
+<table>
+<tr>
+<td>
 
 ```yaml
 Name: Doan Minh Hiep
@@ -36,7 +38,9 @@ Currently_learning: Kubernetes & Terraform at scale.
 Fun_fact: "Learn how to deploy code without disrupting production 🙏"
 ```
 
-<br/>
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
