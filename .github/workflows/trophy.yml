@@ -1,11 +1,14 @@
 name: Generate trophy card
+
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    # Execute every 12 hours at minute 0
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
-    - main
+      - main
+
 jobs:
   generate:
     permissions:
@@ -13,20 +16,24 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: generate trophy.svg
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate trophy.svg
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: ${{ github.repository_owner }}
           file: dist/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          theme: onedark
+          theme: tokyonight
           max-rows: 1
           margin-width: 8
           margin-height: 8
-          no-background: false
-          no-frame: false
-      - name: push trophy.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+          no-background: true
+          no-frame: true
+
+      - name: Push trophy.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: trophy-output
           build_dir: dist
