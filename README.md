@@ -26,15 +26,13 @@
 
 ## 🧑‍💻 About Me
 
-<div style="background-color: #161b22; padding: 16px; border-radius: 8px; border: 1px solid #30363d;">
-<p style="font-size: 15px; line-height: 1.6; font-family: monospace; color: #7ee787; margin: 0;">
-  <b>Name:</b> Doan Minh Hiep<br>
-  <b>Role:</b> DevOps / Infrastructure Fresher.<br>
-  <b>Focus:</b> Automation • CI/CD • Cloud Infrastructure.<br>
-  <b>Currently_learning:</b> Kubernetes & Terraform at scale.<br>
-  <b>Fun_fact:</b> "Learn how to deploy code without disrupting production 🙏"
-</p>
-</div>
+| | |
+|:---|:---|
+| **Name** | `Doan Minh Hiep` |
+| **Role** | `DevOps / Infrastructure Fresher` |
+| **Focus** | `Automation • CI/CD • Cloud Infrastructure` |
+| **Learning** | `Kubernetes & Terraform at scale` |
+| **Fun fact** | `"Learn how to deploy code without disrupting production 🙏"` |
 
 ## 🛠️ Tech Stack
 
