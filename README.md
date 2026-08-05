@@ -32,7 +32,6 @@
 Name: Doan Minh Hiep
 Role: DevOps / Infrastructure Fresher.
 Focus: Automation • CI/CD • Cloud Infrastructure.
-Currently_learning: Kubernetes & Terraform at scale.
 Fun_fact: "Deploying code without breaking production is an art 🙏"
 ```
 
