@@ -41,9 +41,9 @@ Fun_fact: "Learn how to deploy code without disrupting production 🙏"
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,powershell,bash,py,docker,kubernetes,helm&theme=dark" height="60" alt="skills line 1" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,powershell,bash,py,docker,aws,kubernetes,helm&theme=dark" height="60" alt="skills line 1" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=argocd,aws,linux,ubuntu,terraform,ansible,nginx,git,github,gitlab,postgresql&theme=dark" height="60" alt="skills line 2" />
+  <img src="https://skillicons.dev/icons?i=argocd,linux,ubuntu,terraform,ansible,nginx,git,github,gitlab,postgresql&theme=dark" height="60" alt="skills line 2" />
 </div>
 
 <br/>
