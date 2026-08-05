@@ -2,7 +2,6 @@ name: Generate arcade animation
 
 on:
   schedule:
-    # Execute every 12 hours at minute 0
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
@@ -23,7 +22,11 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: 'pacman'
+
+      - name: Move pacman graph to dist directory
+        run: |
+          mkdir -p dist
+          mv pacman-contribution-graph.svg dist/
 
       - name: Push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
