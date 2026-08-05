@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate trophy.svg
-        uses: ryo-ma/github-profile-trophy@v1
+        uses: ryo-ma/github-profile-trophy@master
         with:
           USERNAME: ${{ github.repository_owner }}
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
