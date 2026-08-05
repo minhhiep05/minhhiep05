@@ -110,7 +110,7 @@ Fun_fact: "Learn how to deploy code without disrupting production 🙏"
 </p>
 
 <br/>
-##👾 Pac-Man 
+## 👾 Pac-Man 
 
 <div align="center">
 
