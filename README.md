@@ -90,7 +90,10 @@ Fun_fact: "Learn how to deploy code without disrupting production 🙏"
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" height="38" /> 
 <img src="https://img.shields.io/badge/Grafana%20%20-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="38" /> 
 <img src="https://img.shields.io/badge/Loki%20%20-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="38" /> 
-<img src="https://img.shields.io/badge/Velero%20%20-1A1A1A?style=for-the-badge&logo=kubernetes&logoColor=white" height="38" />
+<img src="https://img.shields.io/badge/Velero%20%20-1A1A1A?style=for-the-badge&logo=kubernetes&logoColor=white" height="38" /> 
+<img src="https://img.shields.io/badge/Beszel-0284C7?style=for-the-badge&logo=activity&logoColor=white" height="38" /> 
+<img src="https://img.shields.io/badge/GoAccess-10B981?style=for-the-badge&logo=files&logoColor=white" height="38" /> 
+<img src="https://img.shields.io/badge/Logdy-7C3AED?style=for-the-badge&logo=terminal&logoColor=white" height="38" />
 </p>
 
 **Programming & Scripting**
