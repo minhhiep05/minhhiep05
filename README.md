@@ -41,9 +41,14 @@ Fun_fact: "Learn how to deploy code without disrupting production 🙏"
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,powershell,bash,py,docker,kubernetes,postgresql,helm&theme=dark" height="60" alt="skills line 1" />
+  <!-- Hàng 1: Ngôn ngữ & Scripting -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,powershell,bash,py,postgresql&theme=dark" height="50" alt="languages" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=argocd,aws,linux,ubuntu,terraform,ansible,nginx,git,github,gitlab&theme=dark" height="60" alt="skills line 2" />
+  <!-- Hàng 2: Cloud, Container & IaC -->
+  <img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,docker,kubernetes,terraform,ansible&theme=dark" height="50" alt="infrastructure" />
+  <br/><br/>
+  <!-- Hàng 3: CI/CD, Version Control & Web Server -->
+  <img src="https://skillicons.dev/icons?i=nginx,git,github,gitlab&theme=dark" height="50" alt="tools" />
 </div>
 <br/>
 
