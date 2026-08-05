@@ -18,22 +18,23 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Create dist directory
-        run: mkdir -p dist
-
       - name: Generate trophy.svg
         uses: ryo-ma/github-profile-trophy@master
         with:
           USERNAME: ${{ github.repository_owner }}
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
           OUTPUT_TYPE: svg
-          SAVE_NAME: dist/trophy.svg
           THEME: tokyonight
           MAX_ROWS: 1
           MARGIN_WIDTH: 8
           MARGIN_HEIGHT: 8
           NO_BACKGROUND: true
           NO_FRAME: true
+
+      - name: Move trophy to dist directory
+        run: |
+          mkdir -p dist
+          mv trophy.svg dist/
 
       - name: Push trophy.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
