@@ -2,7 +2,6 @@ name: Generate trophy card
 
 on:
   schedule:
-    # Chạy định kỳ mỗi 12 tiếng
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
