@@ -30,7 +30,7 @@
 
 ```yaml
 Name: Doan Minh Hiep
-Role: DevOps / Infrastructure Fresher.
+Role: DevOps / Cloud Fresher.
 Focus: Automation • CI/CD • Cloud Infrastructure.
 Fun_fact: "Deploying code without breaking production is an art 🙏"
 ```
