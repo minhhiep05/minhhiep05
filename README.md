@@ -49,7 +49,6 @@ Fun_fact: "Deploying code without breaking production is an art 🙏"
 </div>
 <br/>
 
-## 🛠️ Tech Stack
 
 **Cloud & Virtualization**
 
