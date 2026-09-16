@@ -18,13 +18,10 @@
   <a href="https://linkedin.com/in/doanminhhiep-devops" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn Badge" />
   </a>
-      &nbsp;
-    <img src="https://img.shields.io/github/followers/minhhiep05?label=Followers&style=for-the-badge&color=24292e&logo=github" height="28" alt="GitHub Followers" />
-    &nbsp;
+         &nbsp;
     <a href="https://www.credly.com/badges/d68ac45c-baf9-4bdf-8c6e-0269c868c1b3/public_url" target="_blank">
-      <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/linkedin_thumb_cka_from_cncfsite__281_29.png" height="28" alt="CKA Badge" />
+      <img src="https://img.shields.io/badge/CKA-Certified-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="28" alt="CKA Badge" />
     </a>
-  </p>
 
 </div>
 
