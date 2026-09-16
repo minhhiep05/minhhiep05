@@ -30,7 +30,8 @@
 
 ```yaml
 Name: Doan Minh Hiep
-Role: DevOps / Cloud Fresher.
+Role: DevOps / Cloud Engineer.
+Cert: Certified Kubernetes Administrator (CKA), CNCF/Linux Foundation, 2026
 Focus: Automation • CI/CD • Cloud Infrastructure.
 Fun_fact: "Deploying code without breaking production is an art 🙏"
 ```
