@@ -94,7 +94,6 @@ Fun_fact: "Deploying code without breaking production is an art 🙏"
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" height="38" /> 
 <img src="https://img.shields.io/badge/Bash%20%20-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" height="38" /> 
 <img src="https://img.shields.io/badge/Python%20%20-3776AB?style=for-the-badge&logo=python&logoColor=white" height="38" /> 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="38" /> 
 <img src="https://img.shields.io/badge/Git%20%20-F05032?style=for-the-badge&logo=git&logoColor=white" height="38" />
 </p>
 
