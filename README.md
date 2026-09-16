@@ -20,7 +20,7 @@
   </a>
          &nbsp;
     <a href="https://www.credly.com/badges/d68ac45c-baf9-4bdf-8c6e-0269c868c1b3/public_url" target="_blank">
-     <img src="https://img.shields.io/badge/Certified-Kubernetes%20Administrator-1F3864?style=for-the-badge&logo=kubernetes&logoColor=white" height="28" alt="CKA Badge" />
+     <img src="https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1F3864" height="28" alt="CKA Badge" />
     </a>
 
 </div>
